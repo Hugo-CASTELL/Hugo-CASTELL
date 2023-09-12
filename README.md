@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a .NET Developer for a catenary company in Toulouse, France 
 - 💻 I use daily: **.cs**, **.xaml**, **.java**, **.sql**
-- 💬 Ask me about [League Of Legends](https://app.mobalytics.gg/lol/profile/euw/worst%20picks%20ever/overview), [Chess](https://www.chess.com/member/itwasmindblowing) and Anime
+- 💬 Ask me about [League Of Legends](https://app.mobalytics.gg/lol/profile/euw/worst%20picks%20ever/overview), [Chess](https://www.chess.com/member/itwasmindblowing) and [Anime](https://www.nautiljon.com/animes/one+piece.html)
 - ⚡ I'm a fan of competitive videogames and sports
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugo-castell&show_icons=true&locale=en&layout=compact" alt="hugo-castell" />
