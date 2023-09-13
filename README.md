@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">A passionate developer from France </h3>
+<h1 align="center">Hi <img src="https://github.com/Hugo-CASTELL/Hugo-CASTELL/assets/100218176/a4f9fcef-bee4-4acb-8103-d146da8b3835" width="35px" alt="Hand waving"> I'm Hugo</h1>
+<h3 align="center">A passionate French developer </h3>
 
-<img align="right" alt="Github Banner of Hugo" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
+<img align="right" alt="Github Banner of Hugo" width="420" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
 - 🔭 I’m currently working as a .NET Developer for a catenary company in Toulouse, France 
 - 💻 I use daily: **.cs**, **.xaml**, **.java**, **.sql**
