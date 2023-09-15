@@ -1,6 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Hugo-CASTELL/Hugo-CASTELL/assets/100218176/a4f9fcef-bee4-4acb-8103-d146da8b3835" width="35px" alt="Hand waving"> I'm Hugo <br>
-<p align="center">![](https://komarev.com/ghpvc/?username=Hugo-CASTELL&label=Profile%20Visits&color=blue&style=for-the-badge)</p></h1>
-
+<h1 align="center">Hi <img src="https://github.com/Hugo-CASTELL/Hugo-CASTELL/assets/100218176/a4f9fcef-bee4-4acb-8103-d146da8b3835" width="35px" alt="Hand waving"> I'm Hugo</h1>
 
 <h3 align="center">An enthousiast French developer</h3>
 
@@ -32,3 +30,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;
 </p>
+
+![](https://komarev.com/ghpvc/?username=Hugo-CASTELL&label=Visits&style=for-the-badge) ![](https://img.shields.io/badge/%20NeoVim%20Typer%20-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white&color=blue)
