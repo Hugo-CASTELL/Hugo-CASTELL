@@ -1,5 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/Hugo-CASTELL/Hugo-CASTELL/assets/100218176/a4f9fcef-bee4-4acb-8103-d146da8b3835" width="35px" alt="Hand waving"> I'm Hugo</h1>
-<h3 align="center">A passionate French developer </h3>
+<h1 align="center">Hi <img src="https://github.com/Hugo-CASTELL/Hugo-CASTELL/assets/100218176/a4f9fcef-bee4-4acb-8103-d146da8b3835" width="35px" alt="Hand waving"> I'm Hugo <br>
+<p align="center">![](https://komarev.com/ghpvc/?username=Hugo-CASTELL&label=Profile%20Visits&color=blue&style=for-the-badge)</p></h1>
+
+
+<h3 align="center">An enthousiast French developer</h3>
 
 <img align="right" alt="Github Banner of Hugo" width="395" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
