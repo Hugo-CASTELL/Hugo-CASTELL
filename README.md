@@ -5,7 +5,7 @@
 <img align="right" alt="Github Banner of Hugo" width="395" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
 - 🔭 I’m currently working as a .NET Developer for a catenary company in Toulouse, France 
-- 💻 I use daily: **.cs**, **.xaml**, **.java**, **.sql**
+- 💻 I use daily: **.cs**, **.py**, **.java**, **.sql**
 - 💬 Ask me about [League Of Legends](https://app.mobalytics.gg/lol/profile/euw/worst%20picks%20ever/overview), [Chess](https://www.chess.com/member/itwasmindblowing) and [Anime](https://www.nautiljon.com/animes/one+piece.html)
 - ⚡ I'm a fan of competitive videogames and sports
 
