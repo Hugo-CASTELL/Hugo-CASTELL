@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a PLM Engineer at Capgemini in Toulouse, France 
 - 💻 I use daily: **.kt**, **.ts**, **.cs**, **.py**
-- 💬 Ask me about [Sports (Strava)](https://strava.app.link/ekLAiXo53Nb)] and [Videogames](https://steamcommunity.com/id/nuanz/)
+- 💬 Ask me about [Sports (Strava)](https://strava.app.link/ekLAiXo53Nb) and [Videogames](https://steamcommunity.com/id/nuanz/)
 - ⚡ I'm a fan of sports and competitive videogames
 
 #### 📫 How to reach me
