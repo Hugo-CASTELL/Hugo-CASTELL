@@ -6,9 +6,13 @@
 - 💻 I use daily: **.java**, **.cs**, **.py**, **.ts**
 - ⚡ I'm a fan of [Sports (Strava)](https://strava.app.link/ekLAiXo53Nb) and [Videogames](https://steamcommunity.com/id/nuanz/)
 
-<div>
-  <img width="50%" alt="Github Readme stats" src="https://github-readme-stats.vercel.app/api?username=Hugo-CASTELL&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="50%" alt="Github Readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-CASTELL&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<table>
+    <td>    
+        <img alt="Github Readme stats" src="https://github-readme-stats.vercel.app/api?username=Hugo-CASTELL&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>    
+        <img alt="Github Readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-CASTELL&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
 </div>
 
 #### 🏆 GitHub Trophies (because they seem cool)
