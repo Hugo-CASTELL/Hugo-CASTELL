@@ -6,22 +6,11 @@
 - 💻 I use daily: **.java**, **.cs**, **.py**, **.ts**
 - ⚡ I'm a fan of [Sports (Strava)](https://strava.app.link/ekLAiXo53Nb) and [Videogames](https://steamcommunity.com/id/nuanz/)
 
-<table style="border: none;">
-    <tr>
-        <td>    
-            <img alt="Github Readme stats" src="https://github-readme-stats.vercel.app/api?username=Hugo-CASTELL&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-        </td>
-        <td>    
-            <img alt="Github Readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-CASTELL&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-        </td>
-    </tr>
-</table>
-
-#### 🏆 GitHub Trophies (because they seem cool)
+#### 🏆 GitHub Trophies (because they are cool)
 ![](https://github-profile-trophy.vercel.app/?username=Hugo-CASTELL&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 #### 📫 How to reach me
 
-[<img src="https://img.icons8.com/?size=256&id=ClbD5JTFM7FA&format=png" width="3.5%"/>](https://twitter.com/4_dashes)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hugo-castell/)  &nbsp; <a href="mailto:hugo.castell@outlook.fr"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/?size=256&id=65646&format=png" width="3.5%"/>](https://discord.com/invite/nuanz)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/hugo-castell/)  &nbsp; <a href="mailto:hugo.castell@outlook.fr"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ![](https://komarev.com/ghpvc/?username=Hugo-CASTELL&label=Visits&style=for-the-badge) ![](https://img.shields.io/badge/%20NeoVim%20Typer%20-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white&color=blue)
